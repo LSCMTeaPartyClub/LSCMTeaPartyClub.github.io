@@ -10,5 +10,6 @@ Themes:
 
 
 This Website has:
-- Theme as of May 18 2024 can be found: http://jekyllthemes.org/themes/agency/
-- nothing else as of now.
+- Theme can be found: http://jekyllthemes.org/themes/agency/
+- Club members, contact the Tea Party Club's Designer or President with questions about this website.
+- 
