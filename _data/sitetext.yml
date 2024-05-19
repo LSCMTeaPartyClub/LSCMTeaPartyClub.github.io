@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to LSC-Montgomery's
+    title: Welcome to LSC-Montgomery's politically conservative
     text: Tea Party Club
     button: Tell Me More
     buttonlink: "#services"
