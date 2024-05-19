@@ -26,11 +26,12 @@ en: &DEFAULT_EN
         desc: "Offer a 'Safe Space' for conservative members of the College to enjoy a conservative social club (and enjoy tea)!"
         icon: fas fa-mug-hot  
      #   icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Guests *as peers, not presenters*"
-        desc: "Meet officials, candidates, and volunteer activists at the table, not on a stage or pedestal, to both listen and speak."
+      - title: "Political Guests *as Peers, Not Presenters*"
+        desc: "Sip tea with officials, candidates, and volunteer activists at our table, not on a stage or pedestal, to both listen and speak. We might also ask about laws that affect young adults or college students."
         icon: fas fa-republican
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Purpose No. 3, **Markdown** works"
+     # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Right-Leaning Topics"
+        desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience like raising a farm, law enforcement procedures and best practices, and hospital practices."
         icon: fab fa-markdown
 
 # Gallery
