@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         icon: fas fa-user-tie
       - title: "Right-Leaning Topics"
         desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
-        icon: https://fontawesome.com/icons/person-rifle?f=classic&s=solid
+        icon: fas fa-person-military-rifle
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
      
 
