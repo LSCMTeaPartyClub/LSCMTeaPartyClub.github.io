@@ -52,19 +52,19 @@ en: &DEFAULT_EN
         desc: "Founder worked relentlessly to gather support, write paperwork, recruit an advisor, write the club's 9-page constitution with two other members, and hold planning meetings, lacing democracy into every possible action."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Event 2 description"
+      - title: "Summer Planning Meetings"
+        year: "Summer 2024"
+        desc: "Committed members and newly elected officers of the newly official Tea Party Club preparing for Fall 2024's meetings, activities, and events, dealing with budget issues, working on guest speakers, and mostly paperwork type stuff."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Event 3 description"
+      - title: "First General Meetings"
+        year: "Fall 2024 First Week of Class"
+        desc: "The club begins bright and early to show new students they're surrounded by friends. But more members are expected in the second week, coz like first week of class yk. In the first few weeks, the club officers will introduce how the club functions. Expect important info like how to impeach us. If you read the whole club constitution though you should be fine."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Do we even have 4 things to say here? **Markdown** is fully supported."
+      - title: "The Political World"
+        year: "Fall 2024"
+        desc: "A lot goes down in election season, from the actual voting, to civil unrest, to events like Texas Youth Summit, to sitting on your phone researching the little races that will be voted on at the same time as the President of the United States, and possibly helping those races through volunteerism."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
