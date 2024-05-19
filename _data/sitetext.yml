@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "no phone number"
+    text: "This sends to LSCMTeaPartyClub@gmail.com, the 'unofficial' club email address."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
