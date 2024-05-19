@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         icon: fas fa-republican
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Right-Leaning Topics"
-        desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience like raising a farm, law enforcement procedures and best practices, and hospital practices."
+        desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
         icon: fab fa-markdown
 
 # Gallery
