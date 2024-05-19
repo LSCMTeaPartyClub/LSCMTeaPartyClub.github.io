@@ -1,6 +1,6 @@
 ---
-title: Top Left
-subtitle: Meeting Minutes
+title: Meeting Minutes
+subtitle: May 2024
 image: assets/img/portfolio/01-full.jpg
 alt: alternative text
 
