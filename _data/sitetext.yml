@@ -16,15 +16,15 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
+  services: # yes it says services but its actually vision
+    title: "Vision"
+    text: "Established 2024"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Have real tea parties with fellow conservatives"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Guests *as peers, not presenters*"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
