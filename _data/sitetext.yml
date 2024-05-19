@@ -16,9 +16,9 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-# Vision
-  services: # yes it says services but its actually vision
-    title: "Vision"
+# Purpose
+  services: # yes it says services but its actually Purpose
+    title: "Purpose"
     text: "Established 2024"
     section: services
     list:
