@@ -1,18 +1,18 @@
 ---
 title: Top Left
-subtitle: Not sure what we'll put here.
+subtitle: Meeting Minutes
 image: assets/img/portfolio/01-full.jpg
 alt: alternative text
 
 caption:
   title: TL
-  subtitle: Meeting Minutes
+  subtitle: MMs
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Description area.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: May 2024
+- edit page using the file project1.md
+- ...
 
