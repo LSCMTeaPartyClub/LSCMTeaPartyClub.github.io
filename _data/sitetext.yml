@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
+  about: # yes it's meetings but says about.
     title: "Meeting Info"
     text: "Fall semester meeting time and place are still in the works as of May 2024"
     body: "We don't put the time and place online. You'll have to contact us from your school email address. If you ask, we'll notify you when we have decided a meeting time/place."
