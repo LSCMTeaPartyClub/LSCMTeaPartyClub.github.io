@@ -12,4 +12,7 @@ Themes:
 This Website has:
 - Theme can be found: http://jekyllthemes.org/themes/agency/
 - Club members, contact the Tea Party Club's Designer or President with questions about this website.
-- 
+
+Resources:
+- Use for icons with the "fas fa-name-name" syntax: https://fontawesome.com/icons
+- Syntax for markdown (some "" are html tho): https://www.markdownguide.org/basic-syntax/
