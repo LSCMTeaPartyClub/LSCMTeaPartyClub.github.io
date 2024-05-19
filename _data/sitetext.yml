@@ -68,11 +68,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+  meetings:
+    title: "Meeting Info"
+    text: "Fall semester meeting time and place are still in the works as of May 2024"
+    body: "We don't put the time and place online. You'll have to contact us from your school email address. If you ask, we'll notify you when we have decided a meeting time/place."
+    section: meetings
 
   clients:
     section: clients
