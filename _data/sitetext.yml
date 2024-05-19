@@ -70,29 +70,30 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
+# meetings
   about: # yes it's meetings but says about.
     title: "Meeting Info"
     text: "Fall 2024 meeting time and place are still in the works as of May 2024"
     body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. \\We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
     section: meetings
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+ # clients:
+ #   section: clients
+ #   max-height: 100px
+ #   horizontal-scrolling: "" #"yes/no"
+ #   list:
+ #     - title: "envato"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/envato.jpg
+ #     - title: "designmodo"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/designmodo.jpg
+ #     - title: "themeforest"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/themeforest.jpg
+ #     - title: "Creative Market"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR OFFICERS"
