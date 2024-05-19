@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-mug-hot  
      #   icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Political Guests *as Peers, Not Presenters*"
-        desc: "Sip tea with officials, candidates, and volunteer activists at our table, not on a stage or pedestal, to both listen and speak. We might ask about laws that affect young adults or college students and how to get involved beyond voting."
+        desc: "Sip tea with officials, candidates, and volunteer activists at our table, not on a stage or pedestal, to both listen and speak. We might ask about laws that affect young adults or college students and how to make a difference beyond voting."
         icon: fas fa-user-tie
       - title: "Right-Leaning Topics"
         desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
