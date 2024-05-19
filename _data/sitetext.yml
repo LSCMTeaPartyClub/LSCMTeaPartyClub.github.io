@@ -16,21 +16,23 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
+# Vision
   services: # yes it says services but its actually vision
     title: "Vision"
     text: "Established 2024"
     section: services
     list:
       - title: "Real tea parties with fellow conservatives"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Purpose No. 1"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Guests *as peers, not presenters*"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Purpose No. 2"
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Purpose No. 3, **Markdown** works"
         icon: fab fa-markdown
 
+# Gallery
   portfolio: # yes it says portfolio but it's actually Gallery 
     title: "Gallery"
     text: "Here you can find the club constitution and meeting minutes. Information is redacted for student safety."
