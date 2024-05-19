@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about: # yes it's meetings but says about.
     title: "Meeting Info"
     text: "Fall semester meeting time and place are still in the works as of May 2024"
-    body: "We don't put the time and place online. You'll have to contact us from your school email address. If you ask, we'll notify you when we have decided a meeting time/place."
+    body: "We don't put the time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
     section: meetings
 
   clients:
@@ -93,13 +93,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "OUR OFFICERS"
+    text: "something something"
+    subtext: def something
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "somebody"
+        role: "Pres maybe"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Another person"
+        role: "has a role maybe"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,8 +118,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Somebody else"
+        role: "Maybe no role"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "no phone number"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
