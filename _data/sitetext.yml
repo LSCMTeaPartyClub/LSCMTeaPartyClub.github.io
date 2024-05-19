@@ -31,9 +31,9 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+  portfolio: # yes it says portfolio but it's actually Gallery 
+    title: "Gallery"
+    text: "Here you can find the club constitution and meeting minutes. Information is redacted for student safety."
     section: portfolio
     closebutton: "Close Project"
 
