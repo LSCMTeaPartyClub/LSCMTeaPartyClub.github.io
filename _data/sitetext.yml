@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     text: "Established 2024"
     section: services
     list:
-      - title: "Real tea parties with fellow conservatives"
-        desc: "Purpose No. 1"
+      - title: "Real Tea Parties with Fellow Conservatives"
+        desc: "The TPC offers a 'Safe Space' for conservative members of the College to enjoy a conservative social club."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Guests *as peers, not presenters*"
         desc: "Purpose No. 2"
