@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Gallary"
       section: portfolio
     - title: "Meetings"
-      section: about
+      section: meetings
     - title: "Timeline"
       section: timeline
     - title: "Team"
