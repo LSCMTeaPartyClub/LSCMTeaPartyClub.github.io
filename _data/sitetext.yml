@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to LSC-Montgomery's
+    text: Tea Party Club
     button: Tell Me More
     buttonlink: "#services"
 
