@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-mug-hot  
      #   icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Political Guests *as Peers, Not Presenters*"
-        desc: "Sip tea with officials, candidates, and volunteer activists at our table, not on a stage or pedestal, to both listen and speak. We might also ask about laws that affect young adults or college students."
+        desc: "Sip tea with officials, candidates, and volunteer activists at our table, not on a stage or pedestal, to both listen and speak. We might ask about laws that affect young adults or college students and how to get involved beyond voting."
         icon: fas fa-user-tie
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Right-Leaning Topics"
