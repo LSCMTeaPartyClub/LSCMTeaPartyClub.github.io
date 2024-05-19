@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-mug-hot  
      #   icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Guests *as peers, not presenters*"
-        desc: "Meet officials, candidates, and volunteer activists at the table, not on a stage or pedestal, to both listen and speak. College students have a very different point of view."
+        desc: "Meet officials, candidates, and volunteer activists at the table, not on a stage or pedestal, to both listen and speak."
         icon: fas fa-republican
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Purpose No. 3, **Markdown** works"
