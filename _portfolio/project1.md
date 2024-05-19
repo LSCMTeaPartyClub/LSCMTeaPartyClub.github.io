@@ -5,8 +5,8 @@ image: assets/img/portfolio/01-full.jpg
 alt: alternative text
 
 caption:
-  title: TL
-  subtitle: MMs
+  title: Meeting Minutes
+  subtitle: May 2024
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Description area.
