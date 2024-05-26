@@ -13,6 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome to LSC-Montgomery's politically conservative
     text: Tea Party Club
+    subtext: "Unofficial" website run by official officers
     button: Tell Me More
     buttonlink: "#services"
 
