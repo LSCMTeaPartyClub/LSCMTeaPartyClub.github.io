@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Meeting Minutes
+subtitle: May 2024
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: MM
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Meeting Minutes
+  subtitle: May 2024
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Names, places, dates, and times redacted for student safety.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- Category: Meeting Documents
