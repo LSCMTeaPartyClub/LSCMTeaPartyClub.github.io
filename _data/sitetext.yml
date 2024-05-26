@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Real Tea Parties with Fellow Conservatives"
-        desc: "Primarily, TPC offers a 'Safe Space' for conservative members of the College to enjoy a conservative social club (and enjoy tea)!"
+        desc: "Primarily, TPC offers a social club for conservative members of the College to enjoy tea parties and likeminded company!"
         icon: fas fa-mug-hot  
      #   icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Political Guests *as Peers, Not Presenters*"
