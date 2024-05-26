@@ -15,6 +15,7 @@ en: &DEFAULT_EN
     text: Tea Party Club
     button: Tell Me More
     buttonlink: "#services"
+    title: "testing this text section..."
 
 # Purpose
   services: 
@@ -104,8 +105,8 @@ en: &DEFAULT_EN
 
   team:  #speaker info
     title: "Speaker Info"
-    text: "something something"
-    subtext: def something
+    text: "Interested in chatting with the club?"
+    subtext: One of this club's purposes is to chat with political and *supposedly* nonpolitical figures as peers around the table with us instead of on a stage or at pedestal. We want to contribute to a conversation with our guests rather than listen to a speech or presentation.
     section: team
     
 #    people:
