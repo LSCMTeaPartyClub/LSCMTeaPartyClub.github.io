@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
 # Purpose
   services: 
-    title: Purpose
+    title: "Purpose"
     text: "Established 2024"
     section: services
     list:
