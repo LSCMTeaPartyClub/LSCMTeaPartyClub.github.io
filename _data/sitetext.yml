@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
         icon: fas fa-flag-usa
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-     subtext: "Unofficial" website run by official officers
+     # subtext: "Unofficial" website run by official officers
      
 
 # Gallery
