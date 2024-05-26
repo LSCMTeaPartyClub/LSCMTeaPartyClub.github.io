@@ -106,6 +106,9 @@ en: &DEFAULT_EN
     text: "something something"
     subtext: def something
     section: team
+    text: "Things to know if you're interested in chatting with the club" 
+    subtext: One of this club's purposes is to chat with political and *supposedly* nonpolitical figures as peers around the table with us instead of on a stage or at pedestal. We want to contribute to a conversation with our guests rather than listen to a speech or presentation.
+    
     
 #    people:
 #      - name: "somebody"
