@@ -13,7 +13,6 @@ en: &DEFAULT_EN
   header:
     title: Welcome to LSC-Montgomery's politically conservative
     text: Tea Party Club
-    subtext: "Unofficial" website run by official officers
     button: Tell Me More
     buttonlink: "#services"
 
@@ -34,6 +33,7 @@ en: &DEFAULT_EN
         desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
         icon: fas fa-flag-usa
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+     subtext: "Unofficial" website run by official officers
      
 
 # Gallery
