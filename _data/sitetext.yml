@@ -156,6 +156,9 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
+    title: testing footer title
+  
+  footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
@@ -176,6 +179,15 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+
+
+
+
+# -----------------------------------------------------------------------------------
+
+
+
 
 # Spanish
 # -------
