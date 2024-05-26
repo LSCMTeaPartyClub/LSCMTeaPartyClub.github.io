@@ -13,14 +13,14 @@ en: &DEFAULT_EN
   nav:
     - title: "Purpose"
       section: services
-    - title: "Speaker Info"
-      section: team
     - title: "Documents"
       section: portfolio
     - title: "Meetings"
       section: meetings
     - title: "Timeline"
       section: timeline
+    - title: "Speaker Info"
+      section: team
     - title: "Contact"
       section: contact
     # - title: "Theme Source"
