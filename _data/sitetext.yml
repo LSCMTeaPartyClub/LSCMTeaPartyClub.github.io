@@ -35,12 +35,12 @@ en: &DEFAULT_EN
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
      
 
-# Gallery
+# Documents
   portfolio: # yes it says portfolio but it's actually Gallery 
-    title: "Gallery"
+    title: "Documents"
     text: "In progress still (like most of this site currently) \ \ Here you can find the club constitution and meeting minutes. Information is redacted for student safety."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Mini Page"
 
 # Calendar
   timeline:
