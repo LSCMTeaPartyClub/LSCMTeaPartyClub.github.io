@@ -15,7 +15,6 @@ en: &DEFAULT_EN
     text: Tea Party Club
     button: Tell Me More
     buttonlink: "#services"
-    title: "testing this text section..." 
 
 # Purpose
   services: 
