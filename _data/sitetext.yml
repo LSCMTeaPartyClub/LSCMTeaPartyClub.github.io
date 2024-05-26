@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
 # Purpose
-  services: # yes it says services but its actually Purpose
+  services: 
     title: "Purpose"
     text: "Established 2024"
     section: services
