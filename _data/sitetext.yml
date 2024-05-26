@@ -33,7 +33,6 @@ en: &DEFAULT_EN
         desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
         icon: fas fa-flag-usa
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-     # subtext: "Unofficial" website run by official officers
      
 
 # Gallery
@@ -79,7 +78,7 @@ en: &DEFAULT_EN
   about: # yes it's meetings but says about.
     title: "Meeting Info"
     text: "Fall 2024 meeting time and place are still in the works as of May 2024"
-    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. \ \We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
+    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. \\We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
     section: meetings
 
 
@@ -104,8 +103,8 @@ en: &DEFAULT_EN
 
   team:  #speaker info
     title: "Speaker Info"
-    text: "Interested in chatting with the club?"
-    subtext: One of this club's purposes is to chat with political and *supposedly* nonpolitical figures as peers around the table with us instead of on a stage or at pedestal. We want to contribute to a conversation with our guests rather than listen to a speech or presentation.
+    text: "something something"
+    subtext: def something
     section: team
     
 #    people:
@@ -155,9 +154,6 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    title: testing footer title
-  
-  footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
@@ -178,15 +174,6 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-
-
-
-
-# -----------------------------------------------------------------------------------
-
-
-
 
 # Spanish
 # -------
