@@ -79,7 +79,7 @@ en: &DEFAULT_EN
   about: # yes it's meetings but says about.
     title: "Meeting Info"
     text: "Fall 2024 meeting time and place are still in the works as of May 2024"
-    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. \\ We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
+    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. \ \We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
     section: meetings
 
 
