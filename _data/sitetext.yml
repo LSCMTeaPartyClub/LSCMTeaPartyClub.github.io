@@ -38,7 +38,7 @@ en: &DEFAULT_EN
 # Documents
   portfolio: # yes it says portfolio but it's actually Gallery 
     title: "Documents"
-    text: "In progress still (like most of this site currently) \ \ Here you can find the club constitution and meeting minutes. Information is redacted for student safety."
+    text: "(Website currently in progress)"
     section: portfolio
     closebutton: "Close Mini Page"
 
