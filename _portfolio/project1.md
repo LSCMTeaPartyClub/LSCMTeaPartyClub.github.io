@@ -1,18 +1,15 @@
 ---
-title: Meeting Minutes
+title: Club Constitution
 subtitle: May 2024
 image: assets/img/portfolio/01-full.jpg
-alt: alternative text
+alt: Constitution
 
 caption:
-  title: Meeting Minutes
+  title: Club Founding Constitution
   subtitle: May 2024
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Description area.
+Author names (3) redacted for student safety.
 
 {:.list-inline}
-- Date: May 2024
-- edit page using the file project1.md
-- ...
-
+- Adopted: May 2024
