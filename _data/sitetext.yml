@@ -36,17 +36,17 @@ en: &DEFAULT_EN
      
 
 # Documents
-  portfolio: # yes it says portfolio but it's actually Gallery 
+  portfolio: 
     title: "Documents"
     text: "(Website currently in progress)"
     section: portfolio
     closebutton: "Close"
 
 # meetings
-  about: # yes it's meetings but says about.
+  about: 
     title: "Meeting Info"
     text: "Fall 2024 meeting time and place are still in the works as of May 2024"
-    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. \ We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
+    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. <br> We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
     section: meetings
 
 # Calendar
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "The Political World"
         year: "Fall 2024"
-        desc: "A lot goes down in election season, including events like Texas Youth Summit, local conservative groups' meetings (like us but also PACs), sitting on your phone researching the underrated political races nobody knows about, and learning that a lot of your community members are conservative like you!"
+        desc: "A lot goes down in election season, including events like Texas Youth Summit, local conservative groups' meetings (like us but also PACs), sitting on your phone researching who to vote for, and learning that a lot of your community members are conservative like you!"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
