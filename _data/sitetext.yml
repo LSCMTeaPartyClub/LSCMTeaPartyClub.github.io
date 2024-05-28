@@ -52,7 +52,7 @@ en: &DEFAULT_EN
 # Calendar
   timeline:
     title: "Calendar"
-    text: "Events coming up"
+    text: "Past, Present, and Future."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
         desc: "Founder worked relentlessly to gather support, write paperwork, recruit an advisor, write the club's 9-page constitution with two other members, and hold planning meetings, lacing democracy into every possible action."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Summer Planning Meetings"
+      - title: "Summer Planning Meetings (now)"
         year: "Summer 2024"
         desc: "Committed members and officers of the newly official Tea Party Club preparing for Fall 2024's meetings, activities, and events, dealing with budget issues, collecting guest speakers, and mostly paperwork type stuff."
         image: assets/img/timeline/2.jpg
