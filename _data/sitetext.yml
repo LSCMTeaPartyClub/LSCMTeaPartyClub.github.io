@@ -46,7 +46,7 @@ en: &DEFAULT_EN
   about: 
     title: "Meeting Info"
     text: "Fall 2024 meeting time and place are still in the works as of May 2024"
-    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. <br> We don't put the meeting time and place online. You'll have to contact us from your school email address. If you ask, we'll even notify you when we have decided a meeting time/place."
+    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. <br> We don't put the meeting time and place online. You'll have to email us and we'll verify you're a student by using you name and then we'll continue the comversation to your LSC email, or you can start out from your LSC email.If you ask, we'll even notify you when we have decided a meeting time/place."
     section: meetings
 
 # Calendar
@@ -58,22 +58,22 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Foundations Meetings"
-        year: "Spring 2024"
+        year: "*Spring 2024*"
         desc: "Founder worked relentlessly to gather support, write paperwork, recruit an advisor, write the club's 9-page constitution with two other members, and hold planning meetings, lacing democracy into every possible action."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Summer Planning Meetings (now)"
-        year: "Summer 2024"
+        year: "*Summer 2024*"
         desc: "Committed members and officers of the newly official Tea Party Club preparing for Fall 2024's meetings, activities, and events, dealing with budget issues, collecting guest speakers, and mostly paperwork type stuff."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "First General Meetings"
-        year: "Fall 2024 First Week of Class"
+        year: "*Fall 2024 Week 1-2*"
         desc: "The tea parties begin bright and early to show new students they're surrounded by friends! \ Agenda: Gradually explain in detail how the club functions. Expect important info like how to impeach us and membership requirements."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "The Political World"
-        year: "Fall 2024"
+        year: "*Fall 2024*"
         desc: "A lot goes down in election season, including events like Texas Youth Summit, local conservative groups' meetings (like us but also PACs), sitting on your phone researching who to vote for, and learning that a lot of your community members are conservative like you!"
         image: assets/img/timeline/4.jpg
         alt:
