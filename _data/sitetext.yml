@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to LSC-Montgomery's politically conservative
+    title: Welcome to LSC-Montgomery's conservative/Republican
     text: Tea Party Club
     button: Tell Me More
     buttonlink: "#services"
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
 # Documents
   portfolio: 
     title: "Documents"
-    text: "(Website currently in progress)"
+    text: "There's nothing here yet!"
     section: portfolio
     closebutton: "Close"
 
@@ -142,19 +142,19 @@ en: &DEFAULT_EN
 #            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "This sends to LSCMTeaPartyClub@gmail.com, the 'unofficial' club email address."
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    title: "Contact"
+    text:  "Email us at LSCMTeaPartyClub@gmail.com (the 'unofficial' club email address). Students: using your full name, we'll check LSC's email list and continue the conversation 1-1 with our LSC emails. You can ask us when/where we meet, what we plan on doing this week, or a summary of the main points you might want to know before visiting! Potential guests: The Tea Party Club was partially founded on the principle of conversing with guests as peers, so we invite you to the table to enjoy the tea parties. (Yes, we actually serve tea). Let us know your expectations and when you're available."
+#    section: contact
+#    name: "Name*"
+#    name-validation: "Please enter your name."
+#    email: "Email*"
+#    email-validation: "Please enter your email address."
+#    phone: "Phone Number"
+#    phone-validation: "Please enter your phone number."
+#    message: "Message*"
+#    message-validation: "Please enter a message."
+#    subject: "Contact Form Submission"
+#    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
