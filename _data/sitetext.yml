@@ -33,7 +33,19 @@ en: &DEFAULT_EN
         desc: "Invite guests like farmers, peace officers, and doctors to tell us about little-known events we won't hear about from mainstream media and to teach us things from their areas of expertise or experience."
         icon: fas fa-flag-usa
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-     
+
+# meetings
+  about: 
+    title: "Meeting Info"
+    text: "Fall 2024 meeting time and place are still in the works as of May 2024"
+    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. <br> We don't put the meeting time and place online. You'll have to email us and we'll verify you're a student by using you name and then we'll continue the comversation to your LSC email, or you can start out from your LSC email.If you ask, we'll even notify you when we have decided a meeting time/place."
+    section: meetings
+
+  team:  #speaker info
+    title: "Speaker Info"
+    section: team
+    text: "Things to know if you're interested in chatting with the club" 
+    subtext: One of this club's purposes is to chat with political and *supposedly* nonpolitical figures around the table with us instead of on a stage or at a pedestal. We want to contribute to a conversation with our guests rather than listen to a speech or presentation. <br> <br> Lone Star College requires guests to sign a short 'Speaker agreement' form, which needs to be submitted to them weeks in advance. <br> <br> This club has a 'Safe space agreement' which must be signed in order to enter general meetings that basically says you won't use information from the meeting to ruin another person's (excluding 'public firgures') life.
 
 # Documents
   portfolio: 
@@ -42,12 +54,6 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close"
 
-# meetings
-  about: 
-    title: "Meeting Info"
-    text: "Fall 2024 meeting time and place are still in the works as of May 2024"
-    body: "The Tea Party Club officially meets weekly from week 1 to 14 each Fall and Spring semester. Outside of general meetings, we have planning meetings and plan to host or attend events and volunteering. These meetings occur on LSC-Montgomery campus on weekdays. <br> We don't put the meeting time and place online. You'll have to email us and we'll verify you're a student by using you name and then we'll continue the comversation to your LSC email, or you can start out from your LSC email.If you ask, we'll even notify you when we have decided a meeting time/place."
-    section: meetings
 
 # Calendar
   timeline:
@@ -103,13 +109,9 @@ en: &DEFAULT_EN
  #       url: https://github.com/raviriley/agency-jekyll-theme
  #       logo: assets/img/clients/creative-market.jpg
 
-  team:  #speaker info
-    title: "Speaker Info"
-    section: team
-    text: "Things to know if you're interested in chatting with the club" 
-    subtext: One of this club's purposes is to chat with political and *supposedly* nonpolitical figures around the table with us instead of on a stage or at a pedestal. We want to contribute to a conversation with our guests rather than listen to a speech or presentation. <br> <br> Lone Star College requires guests to sign a short 'Speaker agreement' form, which needs to be submitted to them weeks in advance. <br> <br> This club has a 'Safe space agreement' which must be signed in order to enter general meetings that basically says you won't use information from the meeting to ruin another person's (excluding 'public firgures') life.
-    
-    
+
+
+
 #    people:
 #      - name: "somebody"
 #        role: "Pres maybe"
