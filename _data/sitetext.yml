@@ -38,7 +38,7 @@ en: &DEFAULT_EN
 # Documents
   portfolio: 
     title: "Documents"
-    text: "When this section is complete, it will have meeting minutes, the club constitution, and paperwork we use often."
+    text: "There's nothing here yet!"
     section: portfolio
     closebutton: "Close"
 
@@ -50,7 +50,7 @@ en: &DEFAULT_EN
     section: meetings
 
 # Calendar
-timeline:
+  timeline:
     title: "Calendar"
     text: "Past, Present, and Future."
     section: timeline
@@ -343,3 +343,4 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+  
