@@ -1,3 +1,5 @@
+This webpage is an unnofficial page run by official club officers of LSC-Montgomery's Tea Party Club.
+
 Here are the notes for this website project:
 
 How to change:
